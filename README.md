@@ -1,2 +1,2 @@
-# AAScroller
+# MAScroller
 UIScrollView demo project
